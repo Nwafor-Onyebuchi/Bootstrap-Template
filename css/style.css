@@ -160,3 +160,79 @@
     background-color: #df7e92;
     color: #fff;  
 }
+
+#features {
+    margin-top: 60px;
+}
+
+.features-item{
+    margin-bottom: 40px;
+}
+
+.features-item .box-icon{
+    float: left;
+    margin-top: 10px;
+}
+
+.features-item .clear{
+    margin-left: 80px;
+
+}
+
+.features-item h4{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.features-item p{
+    font-size: 15px;
+    color: #546e7a;
+    line-height: 26px;
+}
+
+.features-item .box-icon{
+    color: rgb(241, 148, 168)
+}
+
+#video{
+    margin-top: 60px;
+}
+
+.overlay{
+    opacity: .9;
+    height: 50vh;
+    width: 100%;
+    background: url(/images/overlay.jpg) no-repeat center/cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;  
+}
+
+.vid-link {
+    color: white;
+    margin: 0 auto; 
+}
+
+.vid-link h2 {
+    margin-top: 20px;
+}
+
+.vid-link a{
+    color: #fff;
+}
+
+#work{
+    margin-top: 60px;
+}
+.row-buttons a:hover{
+    text-decoration: none;
+    color: white;
+    background-color: #df7e92;
+}
+
+.row-buttons .btn-transparent {
+    color: #F97794;
+    border: 1px solid #F97794;
+}
